@@ -53,7 +53,7 @@ Degree. Highest degree. 1 for doctorate, 0 for master's.
 YSdeg. Years since highest degree was earned.
 Salary. Salary/year in dollars.
 
-#Assignment 8
+# Assignment 8
 
 How Much is Your Car Worth?
 Data about the retail price of 2005 General Motors cars can be found in car_data.csv.
